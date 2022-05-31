@@ -1,5 +1,6 @@
-### Creditcard_payment_defaults_prediction by Ashok Rayapati
-### Date:- 2/20/2022
+# Creditcard payment defaults prediction 
+#### Ashok Rayapati
+#### Date:- 2/20/2022
 
 - Python project to predict credit card payment defaulters
 - The problem is to distinguish between the borrowers that are likely to repay their credit card debt and borrowers that are likely to default on their debt.
