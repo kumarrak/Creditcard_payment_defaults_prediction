@@ -1,5 +1,4 @@
 # Creditcard payment defaults prediction 
-#### Ashok Rayapati
 #### Date:- 2/20/2022
 
 - Python project to predict credit card payment defaulters
