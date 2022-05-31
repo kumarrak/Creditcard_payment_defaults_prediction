@@ -1,11 +1,15 @@
 ### Creditcard_payment_defaults_prediction by Ashok Rayapati
-### Date: 2/20/2022
+### Date:- 2/20/2022
 
 - Python project to predict credit card payment defaulters
 - The problem is to distinguish between the borrowers that are likely to repay their credit card debt and borrowers that are likely to default on their debt.
 
 #### Dataset:
 - The dataset contains 30,000 records of data on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005
+
+#### Data Source:
+- Citations: Lichman, M. (2013). UCI Machine Learning Repository [ https://archive.ics.uci.edu/ml/index.php ]. Irvine, CA: University of California, School of Information and Computer Science. 
+- Link to dataset: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
 #### Description:
 1. ID: ID of each client
